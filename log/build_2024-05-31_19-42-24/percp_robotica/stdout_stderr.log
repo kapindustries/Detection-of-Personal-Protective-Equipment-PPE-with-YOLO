@@ -1,0 +1,47 @@
+running egg_info
+creating ../../build/percp_robotica/percp_robotica.egg-info
+writing ../../build/percp_robotica/percp_robotica.egg-info/PKG-INFO
+writing dependency_links to ../../build/percp_robotica/percp_robotica.egg-info/dependency_links.txt
+writing entry points to ../../build/percp_robotica/percp_robotica.egg-info/entry_points.txt
+writing requirements to ../../build/percp_robotica/percp_robotica.egg-info/requires.txt
+writing top-level names to ../../build/percp_robotica/percp_robotica.egg-info/top_level.txt
+writing manifest file '../../build/percp_robotica/percp_robotica.egg-info/SOURCES.txt'
+reading manifest file '../../build/percp_robotica/percp_robotica.egg-info/SOURCES.txt'
+writing manifest file '../../build/percp_robotica/percp_robotica.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build
+creating /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib
+creating /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica
+copying percp_robotica/__init__.py -> /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica
+copying percp_robotica/captura_video.py -> /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica
+copying percp_robotica/subscriber.py -> /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica
+copying percp_robotica/ajuste_contraste.py -> /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica
+copying percp_robotica/cam_pub.py -> /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica
+running install
+running install_lib
+creating /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica
+copying /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica/__init__.py -> /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica
+copying /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica/captura_video.py -> /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica
+copying /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica/subscriber.py -> /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica
+copying /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica/ajuste_contraste.py -> /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica
+copying /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica/cam_pub.py -> /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica
+byte-compiling /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica/captura_video.py to captura_video.cpython-310.pyc
+byte-compiling /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica/subscriber.py to subscriber.cpython-310.pyc
+byte-compiling /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica/ajuste_contraste.py to ajuste_contraste.cpython-310.pyc
+byte-compiling /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica/cam_pub.py to cam_pub.cpython-310.pyc
+running install_data
+creating /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/share/ament_index
+creating /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/share/ament_index/resource_index
+creating /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/share/ament_index/resource_index/packages
+copying resource/percp_robotica -> /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/share/ament_index/resource_index/packages
+copying package.xml -> /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/share/percp_robotica
+running install_egg_info
+Copying ../../build/percp_robotica/percp_robotica.egg-info to /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica-0.0.0-py3.10.egg-info
+running install_scripts
+Installing nodo_ajuste_contraste script to /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/percp_robotica
+Installing nodo_cam_pub script to /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/percp_robotica
+Installing nodo_captura_video script to /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/percp_robotica
+Installing nodo_percp_epp script to /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/percp_robotica
+writing list of installed files to '/home/kap/Escritorio/lab_perc_rob/build/percp_robotica/install.log'

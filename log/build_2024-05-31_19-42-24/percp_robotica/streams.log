@@ -1,0 +1,49 @@
+[0.393s] Invoking command in '/home/kap/Escritorio/lab_perc_rob/src/percp_robotica': PYTHONPATH=/home/kap/Escritorio/lab_perc_rob/build/percp_robotica/prefix_override:/home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/percp_robotica build --build-base /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build install --record /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/install.log --single-version-externally-managed install_data
+[0.522s] running egg_info
+[0.522s] creating ../../build/percp_robotica/percp_robotica.egg-info
+[0.522s] writing ../../build/percp_robotica/percp_robotica.egg-info/PKG-INFO
+[0.523s] writing dependency_links to ../../build/percp_robotica/percp_robotica.egg-info/dependency_links.txt
+[0.523s] writing entry points to ../../build/percp_robotica/percp_robotica.egg-info/entry_points.txt
+[0.523s] writing requirements to ../../build/percp_robotica/percp_robotica.egg-info/requires.txt
+[0.523s] writing top-level names to ../../build/percp_robotica/percp_robotica.egg-info/top_level.txt
+[0.523s] writing manifest file '../../build/percp_robotica/percp_robotica.egg-info/SOURCES.txt'
+[0.524s] reading manifest file '../../build/percp_robotica/percp_robotica.egg-info/SOURCES.txt'
+[0.524s] writing manifest file '../../build/percp_robotica/percp_robotica.egg-info/SOURCES.txt'
+[0.524s] running build
+[0.524s] running build_py
+[0.524s] creating /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build
+[0.524s] creating /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib
+[0.524s] creating /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica
+[0.524s] copying percp_robotica/__init__.py -> /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica
+[0.524s] copying percp_robotica/captura_video.py -> /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica
+[0.524s] copying percp_robotica/subscriber.py -> /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica
+[0.524s] copying percp_robotica/ajuste_contraste.py -> /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica
+[0.524s] copying percp_robotica/cam_pub.py -> /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica
+[0.524s] running install
+[0.524s] running install_lib
+[0.525s] creating /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica
+[0.525s] copying /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica/__init__.py -> /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica
+[0.525s] copying /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica/captura_video.py -> /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica
+[0.525s] copying /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica/subscriber.py -> /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica
+[0.525s] copying /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica/ajuste_contraste.py -> /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica
+[0.525s] copying /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build/lib/percp_robotica/cam_pub.py -> /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica
+[0.525s] byte-compiling /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica/__init__.py to __init__.cpython-310.pyc
+[0.525s] byte-compiling /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica/captura_video.py to captura_video.cpython-310.pyc
+[0.526s] byte-compiling /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica/subscriber.py to subscriber.cpython-310.pyc
+[0.527s] byte-compiling /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica/ajuste_contraste.py to ajuste_contraste.cpython-310.pyc
+[0.527s] byte-compiling /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica/cam_pub.py to cam_pub.cpython-310.pyc
+[0.527s] running install_data
+[0.527s] creating /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/share/ament_index
+[0.527s] creating /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/share/ament_index/resource_index
+[0.527s] creating /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/share/ament_index/resource_index/packages
+[0.527s] copying resource/percp_robotica -> /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/share/ament_index/resource_index/packages
+[0.527s] copying package.xml -> /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/share/percp_robotica
+[0.527s] running install_egg_info
+[0.528s] Copying ../../build/percp_robotica/percp_robotica.egg-info to /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages/percp_robotica-0.0.0-py3.10.egg-info
+[0.529s] running install_scripts
+[0.542s] Installing nodo_ajuste_contraste script to /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/percp_robotica
+[0.542s] Installing nodo_cam_pub script to /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/percp_robotica
+[0.542s] Installing nodo_captura_video script to /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/percp_robotica
+[0.542s] Installing nodo_percp_epp script to /home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/percp_robotica
+[0.542s] writing list of installed files to '/home/kap/Escritorio/lab_perc_rob/build/percp_robotica/install.log'
+[0.556s] Invoked command in '/home/kap/Escritorio/lab_perc_rob/src/percp_robotica' returned '0': PYTHONPATH=/home/kap/Escritorio/lab_perc_rob/build/percp_robotica/prefix_override:/home/kap/Escritorio/lab_perc_rob/install/percp_robotica/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/percp_robotica build --build-base /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/build install --record /home/kap/Escritorio/lab_perc_rob/build/percp_robotica/install.log --single-version-externally-managed install_data

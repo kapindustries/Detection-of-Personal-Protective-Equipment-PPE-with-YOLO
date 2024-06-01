@@ -1,0 +1,6 @@
+[console_scripts]
+nodo_ajuste_contraste = percp_robotica.ajuste_contraste:main
+nodo_cam_pub = percp_robotica.cam_pub:main
+nodo_captura_video = percp_robotica.captura_video:main
+nodo_percp_epp = percp_robotica.subscriber:main
+
