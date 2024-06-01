@@ -97,7 +97,7 @@ class ImageSubscriber(Node):
     self.br = CvBridge()
 
     #Modelo
-    self.modelYOLO = YOLO('./yolo_models/best.pt') #Dir modelo
+    self.modelYOLO = YOLO('PATH TO MODEL') #Dir modelo
 
     #Características de video
     #dimensions = [1280, 720]
